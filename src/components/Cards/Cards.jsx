@@ -4,7 +4,6 @@ import {
   Grid,
   CardContent,
   Typography,
-  StylesProvider,
 } from "@material-ui/core";
 import Styles from "./Cards.module.css";
 import CountUp from "react-countup";
