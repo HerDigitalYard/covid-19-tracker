@@ -23,7 +23,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 3. A [GitHub](https://github.com/signup) account. :octocat:
 4. Clone this git repository 
-5. `npm i` for Node Modules 
+5. `npm i node-modules` for [Node Modules](https://www.npmjs.com/package/node-modules)
 
 ## Available Scripts
 
