@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     ```
 
 3. A [GitHub](https://github.com/signup) account. :octocat:
-4. Clone this git repository 
+4. Clone this git repository in terminal with `git clone https://github.com/Esha98/covid-19.git` command
 5. `npm i node-modules` for [Node Modules](https://www.npmjs.com/package/node-modules)
 
 ## Available Scripts
