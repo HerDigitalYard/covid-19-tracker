@@ -36,3 +36,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## Click and look me 👀 
+<img width="1155" alt="Output__covidApp" src="https://user-images.githubusercontent.com/60232135/159600273-6f33b468-1fcf-459a-8fc5-8f512dc128fb.png">
+
